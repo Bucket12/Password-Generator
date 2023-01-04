@@ -1,1 +1,46 @@
-# Password Generator Starter Code
+# <Password Generator>
+
+## Description
+
+This app can be used to help users create passwords for websites that need to meet specific criteria. The goal of creating this app is to help users easily generate a password that may need to contain a certain amount of characters, specific characters, or numerical and special characters. 
+
+Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+
+- What was your motivation?
+- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+- What problem does it solve?
+- What did you learn?
+
+## Installation
+
+no installation needed.
+
+## Usage
+
+Simply visit: "#" and begin using the prompts to create your password. 
+
+## Credits
+
+List your collaborators, if any, with links to their GitHub profiles.
+
+If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+
+If you followed tutorials, include links to those here as well.
+
+## License
+
+N/A
+
+## Features
+
+Can create Passwords from legth of 8 characters to 128 characters.
+Can generate passwords using special characters such as "*" and "@".
+can generate passwords using a combination of upper case, lower case, and special characters.
+
+## How to Contribute
+
+If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+
+## Tests
+
+Go the extra mile and write tests for your application. Then provide examples on how to run them here.

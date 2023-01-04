@@ -2,7 +2,8 @@
 
 
 // Get references to the #generate element
-var generateBtn = document.querySelector("#generate");
+let generateBtn = document.querySelector("#generate");
+let
 
 // Write password to the #password input
 function writePassword() {
