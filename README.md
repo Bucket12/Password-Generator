@@ -14,9 +14,14 @@ Simply visit: "#" and click the "Generate Password" button. Next, begin using th
 
 ## Credits
 
-- Starter Code: https://github.com/coding-boot-camp/friendly-parakeet.git
+### Borrowed Code:
+- Starter Code Xandromus: https://github.com/coding-boot-camp/friendly-parakeet.git
+
+### Referenced:
 - Prompt/Alert: https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt
 - Confirm: https://developer.mozilla.org/en-US/docs/Web/API/Window/confirm
+- Math.floor: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor
+- Math.Random: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
 
 ## License
 
@@ -27,6 +32,8 @@ N/A
 - Can create Passwords from legth of 8 characters to 128 characters.
 - Can generate passwords using special characters such as "*" and "@".
 - Can generate passwords using a combination of uppercase, lowercase, numbers and special characters.
+- Will alert user if they have entered a number lower than 8 or higher than 128
+- Will alert user if the use a special character or letter in the first length prompt.
 
 ## How does it look?
 ![image](develop/imgs/howDoILook.PNG)
