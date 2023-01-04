@@ -10,7 +10,7 @@ no installation needed.
 
 ## Usage
 
-Simply visit: "#" and click the "Generate Password" button. Next, begin using the prompts to create your password. By the end of the prompts, a password meeting your selected criteria should populate in the "Your Secure Password" field. Should the user enter criteria that is not permissable; prompts will be displayed to alert the user of the specific issue.
+Simply visit: https://bucket12.github.io/Password-Generator/ and click the "Generate Password" button. Next, begin using the prompts to create your password. By the end of the prompts, a password meeting your selected criteria should populate in the "Your Secure Password" field. Should the user enter criteria that is not permissable; prompts will be displayed to alert the user of the specific issue.
 
 ## Credits
 
